@@ -81,6 +81,7 @@ class MainActivity : AppCompatActivity() {
                 ).show()
                 binding.contactName.setText("")
                 return@OnClickListener
+                //ahmedSalah
             }
         }
 
